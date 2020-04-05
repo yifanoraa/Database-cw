@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css') }}">
+
+        <title>eBay Helper</title>
+    </head> 
+    <body>
+        <div class="container">
+            <!-- try to remove align-items-center -->
+            <div class="row">
+                <div class="col-9">
+                    <!-- Form -->
+                    <form class="form-example" action="/search" method="post">
+                        <h1>eBay Helper</h1>
+                        <p class="description">Help you to filter and use information from eBay</p>
+                        <!-- Input fields -->
+                        <div class="form-group row">
+                            <label for="keywords" class="col-2">Key words</label> 
+                            <div class="col-8">
+                                <input type="text" class="form-control" id="keywords" placeholder="Keywords here ..." name="keywords">
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label for="clear_data" class="col-2">Clear old data</label> 
+                            <div class="col-8">
+                                <select class="custom-select" id="clear_data" name="clear_data">
+                                    <option value="Y">Yes</option>
+                                    <option value="N" selected>No</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary btn-customized">Search</button>
+                        <p><a href="/list_detail">Show detail</a>
+                        <p><a href="/list">Show chart</a>
+                    </form>
+                    <!-- Form end -->
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

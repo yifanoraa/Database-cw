@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+        <script type="text/javascript" src="{{ url_for('static', filename='echarts.min.js') }}"></script>
+
+        <title>eBay Helper</title>
+    </head> 
+    <body>
+        <div class="container">
+            <form id="form" role="form" action="/list" method="post">
+                <div class="form-group row">
+                    <label for="category" class="col-3">Category</label> 
+                    <div class="col-9">
+                        <select class="custom-select" id="category_id" name="category_id">
+                            {% for category in category_list %}
+                            {% if category.selected %}
+                            <option value="{{ category.id }}" selected>{{ category.categoryname }}</option>
+                            {% else %}
+                            <option value="{{ category.id }}">{{ category.categoryname }}</option>
+                            {% endif %}
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+                <button class="btn btn-primary" onclick="showChart(); return false;">Show chart</button>
+                <p><a href="/">Go back to home page</a>
+            </form>
+
+            <div id="main" style="width: 1200px;height:800px;"></div> 
+
+            <script type="text/javascript">
+                function on_data_ready(rawData) {
+                    myChart.hideLoading(); 
+                    
+                    // specify chart configuration item and data 
+                    console.log(rawData); 
+                    
+                    var option_distribute_sample = { 
+                        legend:{},
+                        tooltip:{},
+                        xAxis: [{
+                            type:'category'
+                            , data: ['2019-01', '2019-02', '2019-03', '2019-04', '2019-05', '2019-06']
+                        }],
+                        yAxis: {},
+                        series : [{
+                            name: 'min_price'
+                            , type: 'bar'
+                            , data: [100, 200, 300]
+                        }, {
+                            name: 'max_price'
+                            , type: 'bar'
+                            , data: [100, 200, 300]
+                        }, {
+                            name: 'avg_price'
+                            , type: 'bar'
+                            , data: [100, 200, 300]
+                        }]
+                    }
+
+                   var option_distribute = { 
+                        legend:{},
+                        tooltip:{},
+                        xAxis: rawData.xAxis, 
+                        yAxis: {},
+                        series : rawData.series 
+                    }
+
+                    myChart.setOption(option_distribute);
+                }
+
+                var uploadedDataURL = "{{ url_for('list_chart') }}";
+
+                // based on prepared DOM, initialize echarts instance
+                var myChart = echarts.init(document.getElementById('main')); 
+                
+                function showChart() {
+                    myChart.showLoading(); 
+                    
+                    fetch(uploadedDataURL, {
+                        method : 'post'
+                        , body : new FormData(document.getElementById("form"))
+                    }).then(response => response.json())
+                    .then(response => on_data_ready(response))
+                    .catch(error => alert(error));
+                }
+            </script>
+
+        </div>
+    </body>
+</html>
