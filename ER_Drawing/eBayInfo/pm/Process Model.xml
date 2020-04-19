@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="98D02079-E000-27BB-DE27-9F7B25C0533B">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:14:56 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

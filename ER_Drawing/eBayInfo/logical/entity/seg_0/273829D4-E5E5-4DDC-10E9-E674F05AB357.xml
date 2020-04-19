@@ -1,0 +1,142 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="273829D4-E5E5-4DDC-10E9-E674F05AB357" name="Item">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:17:15 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="itemId" id="2D337625-4F0D-58B8-02ED-B56B877C4EA8">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:17:47 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id1" id="A78030B4-A22C-ABD2-3BE8-AD9C16E2CBAC">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:21:18 UTC</createdTime>
+<generatorID>1D63A29E-34CC-6C11-3EC4-E899C017D9DF</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<referedAttribute>1F6A9213-C4E3-98D4-62ED-EA8C58736DD9</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id2" id="8A7B5081-C2F2-2E16-5791-ECFE487F465C">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:24:25 UTC</createdTime>
+<generatorID>8A04B6CC-650A-3CA7-156B-916E85FD34EC</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<referedAttribute>B8FA4C9D-0641-22EA-A095-194E00594EFC</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id3" id="6F1F8D61-9F48-A6E6-7555-51FF167C3BDA">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 06:58:49 UTC</createdTime>
+<generatorID>E598EE95-8649-29A4-B278-F8AFBB6FFECC</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<referedAttribute>9A2B8EC7-9BFF-C504-7AD2-785D7EB0CBC1</referedAttribute>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="title" id="F62B1EC1-9C21-E1EA-D738-EE511BF53B87">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:46:55 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="bidCount" id="EFD175A1-1C29-1949-A466-4F34D6F4CC95">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 06:55:24 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="listingType" id="02A148B7-895D-D8DF-E144-F0ABD7B73D0D">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 06:56:31 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="name" id="87675278-5691-A933-5EB8-8F43BFCA5985">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 23:25:20 UTC</createdTime>
+<generatorID>221C26D4-B11E-B309-EF72-421C6231D88C</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<referedAttribute>669AF1B7-3D98-572C-B5A5-66DE3B887758</referedAttribute>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="81C6358F-8D13-A640-2312-EC12495B9794" name="Item PK">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:18:31 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>2D337625-4F0D-58B8-02ED-B56B877C4EA8</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

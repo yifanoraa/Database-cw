@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="C9EFA7F9-C135-C2C3-736B-392E9ECDB499" containerWithKeyObject="66FFEA53-CED5-28E5-2457-1BF3569FC930" localFKIndex="F5FD69DD-7F6B-CFD1-53D6-E493CE8C4930" name="Item_SellingState_FK">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>E598EE95-8649-29A4-B278-F8AFBB6FFECC</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<referredTableLongName>SellingState</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>DBFD00F9-848C-E08A-0D76-02B3F9D5B1A2</referredTableID>
+<keyObject>7C993ECF-080E-4AE0-2A9E-60415C51F18E</keyObject>
+<referredKeyID>7C993ECF-080E-4AE0-2A9E-60415C51F18E</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>sellingStateId</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

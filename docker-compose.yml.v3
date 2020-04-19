@@ -1,0 +1,38 @@
+# https://gotechnies.com/docker-compose-yml-mysql-phpmyadmin/
+version: '3'
+services:
+  db:
+    image: mysql:5.7
+    environment:
+      - MYSQL_DATABASE=rails
+      - MYSQL_USER=rails
+      - MYSQL_PASSWORD=rails
+      - MYSQL_ROOT_PASSWORD=seedubuntu
+    volumes: 
+      - ./db:/var/lib/mysql 
+    ports: 
+      - "3306:3306"
+    networks: 
+      app_net: 
+        ipv4_address: 16.10.10.1
+  phpmyadmin: 
+    image: phpmyadmin/phpmyadmin 
+    environment: 
+      PMA_ARBITRARY: 1 
+      MYSQL_USER: rails 
+      MYSQL_PASSWORD: rails 
+      MYSQL_ROOT_PASSWORD: rails
+    ports: 
+      - "80:80"
+volumes: 
+  db: 
+    driver: "local"
+
+networks: 
+  # 配置docker network 
+  app_net: 
+    driver: bridge 
+    ipam: 
+      config: 
+        # 子网络 
+        - subnet: 16.10.0.0/16

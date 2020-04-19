@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="0545E413-99A7-9E0A-43D3-9A681729CCFD" mainViewID="519459D7-93A1-3F56-8AB2-B0966BBF1CC1">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:14:55 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

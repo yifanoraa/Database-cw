@@ -1,0 +1,59 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="94C25137-EECA-9435-FC11-70C26EEC8A05" name="Payment">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:25:02 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id" id="93E69B25-10AE-9802-038B-C3514325A4F2">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:43:21 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="paymentName" id="645A2C08-8F87-762F-8898-A6AD17B832B6">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:43:34 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="33A64DC2-2C66-F38F-4485-8E7E3AC841DE" name="Payment PK">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:45:09 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>93E69B25-10AE-9802-038B-C3514325A4F2</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

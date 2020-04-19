@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="E36692C5-3C82-FB46-2D3C-80593F0E716B">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:14:56 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>

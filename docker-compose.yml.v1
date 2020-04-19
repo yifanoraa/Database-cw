@@ -1,0 +1,40 @@
+version: '3'
+services:
+  web:
+    build: eBayApp/.
+    ports:
+      - "5000:5000"
+    links:
+      - db
+    depends_on:
+      - db
+  db:
+    image: mysql:5.7
+    volumes:
+      - ./db:/var/lib/mysql
+    environment: 
+      MYSQL_DATABASE: ebay_info
+      MYSQL_USER: ebay 
+      MYSQL_PASSWORD: ebay 
+      MYSQL_ROOT_PASSWORD: supersecure 
+    ports:
+      - "3306:3306"
+    networks:
+      app_net:
+        ipv4_address: 16.10.10.1
+  phpmyadmin: 
+    image: phpmyadmin/phpmyadmin 
+    environment: 
+      PMA_ARBITRARY: 1 
+      MYSQL_USER: ebay 
+      MYSQL_PASSWORD: ebay 
+      MYSQL_ROOT_PASSWORD: supersecure 
+    ports: 
+      - "80:80"
+
+networks:
+  app_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 16.10.0.0/16

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_2" directorySegmentName="seg_0" id="8A04B6CC-650A-3CA7-156B-916E85FD34EC">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 05:24:25 UTC</createdTime>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<engineerTo>
+<item key="8D503A5C-117B-2A9E-14F6-EB37CB2237D5" value="true"/>
+</engineerTo>
+<sourcePk>BC57EFF4-EC20-692E-2868-A36DB803F8AF</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>DDCE5A93-7F78-E3A6-EE5F-4E3446DE8171</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>273829D4-E5E5-4DDC-10E9-E674F05AB357</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

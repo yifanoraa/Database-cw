@@ -1,0 +1,20 @@
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb

@@ -1,0 +1,50 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="A283D796-7970-5BD6-1DD6-69240A92204E" name="Category">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>55098E1F-5F2B-4F2E-EBDF-84B61842F757</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="EF843D42-3895-D29A-FB17-7DA2EC73AF40">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>1F6A9213-C4E3-98D4-62ED-EA8C58736DD9</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="categoryName" id="A7DBD876-99A7-6C5D-9555-1247884F8CA3">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>938B6A9D-4C0F-DEA6-5021-319FF094D8A4</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="78052AD7-2DEF-90EB-4A69-3283C99059EF" name="Category_PK">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>69668566-A306-EFCC-77BA-A621A871685B</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="EF843D42-3895-D29A-FB17-7DA2EC73AF40"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

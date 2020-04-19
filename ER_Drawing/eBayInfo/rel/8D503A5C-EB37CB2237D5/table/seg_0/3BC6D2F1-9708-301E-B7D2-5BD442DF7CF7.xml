@@ -1,0 +1,49 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3BC6D2F1-9708-301E-B7D2-5BD442DF7CF7" name="Payment">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>94C25137-EECA-9435-FC11-70C26EEC8A05</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="8DF0336F-EC48-C466-A9B1-93605E39EA61">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>93E69B25-10AE-9802-038B-C3514325A4F2</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="paymentName" id="26A834ED-5BD7-7114-338B-FBC591BF117C">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>645A2C08-8F87-762F-8898-A6AD17B832B6</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>6DE6DC25-5145-E2B8-60F2-FB94532EA6F8</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="5AACF779-1626-A74B-A804-C0EC66A9B15A" name="Payment_PK">
+<createdBy>MTK81260</createdBy>
+<createdTime>2020-03-06 08:16:39 UTC</createdTime>
+<generatorID>33A64DC2-2C66-F38F-4485-8E7E3AC841DE</generatorID>
+<ownerDesignName>eBayInfo</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8DF0336F-EC48-C466-A9B1-93605E39EA61"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
