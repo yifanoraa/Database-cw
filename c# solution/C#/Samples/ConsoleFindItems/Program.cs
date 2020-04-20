@@ -56,47 +56,79 @@ namespace ConsoleFindItems
             }
         }
 
-        public void Rsl(string keyword, string by) // "FixedPrice"  "AuctionWithBIN"
+        public struct R
+        {
+            public string itemId;
+            public string title;
+            public string categoryId;
+            public string categoryName;
+            public string sellingState;
+            public string viewItemURL;
+            public string convertedCurrentPrice;
+            public string paymentMethod;
+            public string country;
+            public string conditionId;
+            public string conditionDisplayName;
+
+            public R(bool init)
+            {
+                itemId = "";
+                title = "";
+                categoryId = "";
+                categoryName = "";
+                sellingState = "";
+                viewItemURL = "";
+                convertedCurrentPrice = "";
+                paymentMethod = "";
+                country = "";
+                conditionId = "";
+                conditionDisplayName = "";
+            }
+        }
+
+
+        public R[] Rsl(string keyword, string by) // "FixedPrice"  "AuctionWithBIN"
         {
             SearchItem[] items  =  GetBy(keyword, by);
+
+            R[] rsl     = new R[items.Length];
+            int rslIDX  = 0;
+
             foreach (SearchItem item in items)
             {
+                R r = new R(true);
+
                 // Item
                 // SellingState
+                // CATEGORY
                 Console.WriteLine("****************************");
-                Console.WriteLine(item.itemId);
-                Console.WriteLine(item.title);
-                Console.WriteLine(item.primaryCategory.categoryId);
-                        // condition 在下面
-                Console.WriteLine(item.sellingStatus.sellingState);
-                Console.WriteLine(item.viewItemURL);
-                Console.WriteLine(item.sellingStatus.convertedCurrentPrice);
+                r.itemId        = item.itemId;
+                r.title         = item.title;
+                r.categoryId    = item.primaryCategory.categoryId;
+                r.categoryName  = item.primaryCategory.categoryName;
+                // condition 在下面
+                r.sellingState  = item.sellingStatus.sellingState;
+                r.viewItemURL   = item.viewItemURL;
+                r.convertedCurrentPrice = item.sellingStatus.convertedCurrentPrice.ToString();
                 // payment
                 // ITEM_PAYMENT
-                if (item.paymentMethod != null)
-                    foreach(string paymentMethod in item.paymentMethod)
-                        Console.WriteLine(paymentMethod);
+                if (item.paymentMethod != null && item.paymentMethod.Length > 0)
+                    r.paymentMethod = item.paymentMethod[0];
                 // SELLER  -  永远是空?
-                if (item.sellerInfo != null)
-                {
-                    Console.WriteLine(item.sellerInfo.feedbackScore);
-                    Console.WriteLine(item.sellerInfo.positiveFeedbackPercent);
-                    Console.WriteLine(item.sellerInfo.feedbackRatingStar);
-                }
-                // CATEGORY
-                Console.WriteLine(item.primaryCategory.categoryId);
-                Console.WriteLine(item.primaryCategory.categoryName);
+                if (item.country != null)
+                    r.country = item.country;
                 // CONDITIONS
                 if (item.condition != null)
                 {
-                    Console.WriteLine(item.condition.conditionId);
-                    Console.WriteLine(item.condition.conditionDisplayName);
+                    r.conditionId = item.condition.conditionId.ToString();
+                    r.conditionDisplayName = item.condition.conditionDisplayName;
                 }
-                    
 
-
-                int stop = 1;
+                rsl[rslIDX] = r;
+                    rslIDX++;
             }
+
+            return rsl;
         }
     }
     class Program

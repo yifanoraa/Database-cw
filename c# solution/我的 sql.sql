@@ -1,0 +1,66 @@
+DROP TABLE IF EXISTS KEYWORD_HIS ;
+DROP TABLE IF EXISTS ITEM;
+DROP TABLE IF EXISTS KEYWORD_ITEM;
+DROP TABLE IF EXISTS PAYMENT;
+DROP TABLE IF EXISTS COUNTRY;
+DROP TABLE IF EXISTS CATEGORY;
+DROP TABLE IF EXISTS CONDITIONS;
+DROP TABLE IF EXISTS SELLINGSTATE;
+
+CREATE TABLE KEYWORD_HIS (
+	keywordID		  INTEGER NOT NULL IDENTITY PRIMARY KEY,
+    keyword           VARCHAR(20) NOT NULL,
+    update_mark		  DateTime
+);
+
+CREATE TABLE ITEM (
+    itemid            VARCHAR(40) NOT NULL PRIMARY KEY,
+    title             VARCHAR(400) NOT NULL,
+    categoryId       VARCHAR(40) NOT NULL,
+    sellingStateID   INTEGER,
+    url				  VARCHAR(400) NOT NULL,
+    convertedCurrentPrice             DECIMAL(16, 2) NOT NULL,
+    paymentMethodID	  INTEGER,
+    countryID         INTEGER,
+    conditionId      VARCHAR(40) NOT NULL
+);
+
+CREATE TABLE KEYWORD_ITEM (
+	keywordID	INTEGER NOT NULL,
+    itemid		VARCHAR(40) NOT NULL,
+    af			char
+);
+
+CREATE TABLE PAYMENT (
+    paymentMethodID         INTEGER NOT NULL IDENTITY PRIMARY KEY,
+    paymentMethod    VARCHAR(40)
+);
+
+
+CREATE TABLE COUNTRY (
+    countryID          	INTEGER NOT NULL IDENTITY PRIMARY KEY,
+    country             VARCHAR(40)
+);
+
+
+CREATE TABLE CATEGORY (
+    categoryId          VARCHAR(40) NOT NULL PRIMARY KEY,
+    categoryname   VARCHAR(40) NOT NULL
+);
+
+CREATE TABLE CONDITIONS (
+    conditionId          VARCHAR(40) NOT NULL PRIMARY KEY,
+    conditionDisplayName   VARCHAR(40) NOT NULL
+);
+
+CREATE TABLE SELLINGSTATE (
+    sellingStateID       INTEGER NOT NULL IDENTITY PRIMARY KEY,
+    sellingstatename   VARCHAR(40) NOT NULL
+);
+
+ALTER TABLE KEYWORD_ITEM
+	ADD 
+CONSTRAINT KEYWORD_ITEM_pk PRIMARY KEY 
+( keywordID,
+	itemid
+) 
