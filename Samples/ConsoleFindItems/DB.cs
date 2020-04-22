@@ -463,12 +463,6 @@ namespace ConsoleFindItems
             }
         }
 
-        /// <summary>  
-        ///  判断是否有非法字符 
-        /// </summary>  
-        /// <param name="strString"></param>  
-        /// <returns>返回TRUE表示有非法字符，返回FALSE表示没有非法字符。</returns>  
-        /// 
         static bool CheckBadStr(string strString)
         {
             if (strString != null && strString.Length > 0)
