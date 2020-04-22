@@ -1,7 +1,6 @@
 The findAndWatch sample is a composite sample which shows how
 FindingKit and eBay Trading SDK can be used together to create applications.
 
-
 Here are a few notes about this sample:
 1. Environment Requirements
 This sample is a ASP.Net web application, it needs an IIS application server to run,

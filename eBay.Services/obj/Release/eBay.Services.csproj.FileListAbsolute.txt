@@ -1,8 +1,0 @@
-C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\eBay.Services\bin\Release\eBay.Services.dll
-C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\eBay.Services\bin\Release\eBay.Services.pdb
-C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\eBay.Services\bin\Release\SLF.dll
-C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\eBay.Services\obj\Release\eBay.Services.csprojAssemblyReference.cache
-C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\eBay.Services\obj\Release\eBay.Services.csproj.CoreCompileInputs.cache
-C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\eBay.Services\obj\Release\eBay.Services.csproj.CopyComplete
-C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\eBay.Services\obj\Release\eBay.Services.dll
-C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\eBay.Services\obj\Release\eBay.Services.pdb
