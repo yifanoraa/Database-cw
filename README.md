@@ -4,3 +4,4 @@ With its scalability addressed by its multi-databases structure and security add
 
 The main logic is the code of samples/ConsoleFindItem
 We used official .NET framework samples provided by eBay, and build our version based on that.
+
