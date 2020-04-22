@@ -1,0 +1,138 @@
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\Example.dll.config
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\Example.dll
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\Example.pdb
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\SLF.dll
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\C# - 0421  1624\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\Example.pdb
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\Example.dll.config
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\Example.dll
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\bin\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\FindAndWatch.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\FindAndWatch\obj\Debug\Example.pdb

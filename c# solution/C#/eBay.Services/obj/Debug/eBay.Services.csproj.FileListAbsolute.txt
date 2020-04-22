@@ -1,8 +1,0 @@
-C:\Users\18026\Desktop\兼职\微软云\C# 范例\eBay.Services\bin\Debug\eBay.Services.dll
-C:\Users\18026\Desktop\兼职\微软云\C# 范例\eBay.Services\bin\Debug\eBay.Services.pdb
-C:\Users\18026\Desktop\兼职\微软云\C# 范例\eBay.Services\bin\Debug\SLF.dll
-C:\Users\18026\Desktop\兼职\微软云\C# 范例\eBay.Services\obj\Debug\eBay.Services.csprojAssemblyReference.cache
-C:\Users\18026\Desktop\兼职\微软云\C# 范例\eBay.Services\obj\Debug\eBay.Services.csproj.CoreCompileInputs.cache
-C:\Users\18026\Desktop\兼职\微软云\C# 范例\eBay.Services\obj\Debug\eBay.Services.csproj.CopyComplete
-C:\Users\18026\Desktop\兼职\微软云\C# 范例\eBay.Services\obj\Debug\eBay.Services.dll
-C:\Users\18026\Desktop\兼职\微软云\C# 范例\eBay.Services\obj\Debug\eBay.Services.pdb

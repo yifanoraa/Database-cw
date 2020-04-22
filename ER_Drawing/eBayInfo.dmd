@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="eBayInfo" id="D1463583-A149-E2F3-478B-463E607C248D" version="3.5">
-<createdBy>MTK81260</createdBy>
-<createdTime>2020-03-06 05:14:55 UTC</createdTime>
-<ownerDesignName>eBayInfo</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>D1463583-A149-E2F3-478B-463E607C248D</designId>
-</OSDM_Design>

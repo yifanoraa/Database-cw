@@ -1,0 +1,160 @@
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# 范例\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C#\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1143\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1337\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0419 1806\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0000\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  0001\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1208\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1434\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1452\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  163  ---\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0420  1809\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  0816  早晨第一版\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\微软云\C# - 0421  1624  下午第二版  deploy 到学生账户\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojAssemblyReference.cache
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CoreCompileInputs.cache
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csproj.CopyComplete
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\18026\Desktop\兼职\C# - 0421  1624\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
